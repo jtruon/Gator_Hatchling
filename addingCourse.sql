@@ -1,0 +1,10 @@
+INSERT INTO `gator_hatchlingdb`.`course` (`Course_id`, `Course_name`, `Course_credit`) VALUES ('100', 'Software Engineer', '3');
+INSERT INTO `gator_hatchlingdb`.`course` (`Course_id`, `Course_name`, `Course_credit`) VALUES ('101', 'Prog Lang Concepts', '3');
+INSERT INTO `gator_hatchlingdb`.`course` (`Course_id`, `Course_name`, `Course_credit`) VALUES ('103', 'Operating System', '3');
+INSERT INTO `gator_hatchlingdb`.`course` (`Course_id`, `Course_name`, `Course_credit`) VALUES ('104', 'Theory DB & Structures', '3');
+INSERT INTO `gator_hatchlingdb`.`course` (`Course_id`, `Course_name`, `Course_credit`) VALUES ('105', 'Internet of Things', '3');
+INSERT INTO `gator_hatchlingdb`.`course` (`Course_id`, `Course_name`, `Course_credit`) VALUES ('106', 'Senior Project', '3');
+INSERT INTO `gator_hatchlingdb`.`course` (`Course_id`, `Course_name`, `Course_credit`) VALUES ('107', 'Senior Seminar', '3');
+INSERT INTO `gator_hatchlingdb`.`course` (`Course_id`, `Course_name`, `Course_credit`) VALUES ('108', 'Data Mining', '3');
+INSERT INTO `gator_hatchlingdb`.`course` (`Course_id`, `Course_name`, `Course_credit`) VALUES ('109', 'Introduction to CS with C++', '3');
+INSERT INTO `gator_hatchlingdb`.`course` (`Course_id`, `Course_name`, `Course_credit`) VALUES ('110', 'Digital Logic', '3');
